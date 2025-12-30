@@ -4,3 +4,5 @@ node_modules/
 # ===== Environment variables =====
 .env
 
+src/config/config.json
+
